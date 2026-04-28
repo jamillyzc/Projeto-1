@@ -9,5 +9,5 @@ idade = int(input('Qual é a sua idade?'))
 email = input('Digite o seu e-mail')
 email1 = input('Confirme o seu e-mail')
 
-if email == e-mail2:
+
   
