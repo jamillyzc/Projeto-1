@@ -3,7 +3,7 @@ import streamlit as st
 st.title('Teste ECMI 2')
 st.write('Esse é o meu texto')
 
-print('Seja Bem-Vindo À Plataforma')\n
+print('Seja Bem-Vindo À Plataforma')
 nome = input('Qual é o seu nome?')
 idade = int(input('Qual é a sua idade?'))
 email = input('Digite o seu e-mail')
